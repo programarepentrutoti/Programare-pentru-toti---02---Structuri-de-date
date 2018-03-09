@@ -2,5 +2,5 @@
 
 Lectia 1 - Liste simplu inlantuite
 Fisiere aferente:
-  1. lista.c
-  2. lista.h
+  1. list.c
+  2. list.h
